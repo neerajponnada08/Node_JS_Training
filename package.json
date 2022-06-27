@@ -1,0 +1,20 @@
+{
+  "name": "node_js_training",
+  "version": "1.1.1",
+  "description": "A repo for learning basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "nstart": "node app.js"
+  },
+  "author": "Neeraj Vardhan Ponnada",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
